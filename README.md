@@ -1,6 +1,6 @@
 # ⚡ Power Plants Data Processing Task - Summer 2025 Internship ☀️
 
-This repository contains the solution for the programming assignment focused on processing and analyzing power plant volume data. The primary goal was to implement the `PowerPlants` Python class to handle data ingestion, storage, and aggregation from various CSV sources.
+This repository contains the solution for the programming assignment focused on processing and analyzing power plant volume data. The primary goal was to implement the `PowerPlants` Python class to handle data ingestion, storage, and aggregation from various CSV sources present in the repository.
 
 ---
 ## 📝 Project Overview
